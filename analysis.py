@@ -11,8 +11,7 @@ import random
 import sys
 
 __author__ = "Raj Kane"
-__version__ = "Project 7"
-__date__ = "Spring 2018"
+__version__ = "Spring 2018"
 
 
 def data_range(headers, data):
